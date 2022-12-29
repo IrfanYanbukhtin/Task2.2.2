@@ -1,0 +1,13 @@
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\bin\Debug\netcoreapp3.1\Task2.2.2.exe
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\bin\Debug\netcoreapp3.1\Task2.2.2.deps.json
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\bin\Debug\netcoreapp3.1\Task2.2.2.runtimeconfig.json
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\bin\Debug\netcoreapp3.1\Task2.2.2.runtimeconfig.dev.json
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\bin\Debug\netcoreapp3.1\Task2.2.2.dll
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\bin\Debug\netcoreapp3.1\Task2.2.2.pdb
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\obj\Debug\netcoreapp3.1\Task2.2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\obj\Debug\netcoreapp3.1\Task2.2.2.AssemblyInfoInputs.cache
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\obj\Debug\netcoreapp3.1\Task2.2.2.AssemblyInfo.cs
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\obj\Debug\netcoreapp3.1\Task2.2.2.csproj.CoreCompileInputs.cache
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\obj\Debug\netcoreapp3.1\Task2.2.2.dll
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\obj\Debug\netcoreapp3.1\Task2.2.2.pdb
+C:\Users\irfanfy\source\repos\Task2.2.2\Task2.2.2\obj\Debug\netcoreapp3.1\Task2.2.2.genruntimeconfig.cache
